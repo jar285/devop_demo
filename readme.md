@@ -10,3 +10,4 @@ For this assignment I want you to watch the following two videos and create your
 ## Screenshots
 
 1.  Put the screenshot of your image in your Docker account here.
+    <img width="1261" alt="Captura de pantalla 2024-04-06 a la(s) 10 59 09 p m" src="https://github.com/jar285/devops_demo/assets/114256420/594262d2-574a-4038-b506-9615e04e1370">
